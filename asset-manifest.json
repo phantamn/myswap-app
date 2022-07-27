@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/myswap-app/static/css/main.b608630c.chunk.css",
-    "main.js": "/myswap-app/static/js/main.f6400147.chunk.js",
+    "main.js": "/myswap-app/static/js/main.3fd05171.chunk.js",
     "runtime-main.js": "/myswap-app/static/js/runtime-main.c8d171ec.js",
     "static/js/2.362db918.chunk.js": "/myswap-app/static/js/2.362db918.chunk.js",
     "index.html": "/myswap-app/index.html",
@@ -14,6 +14,6 @@
     "static/js/runtime-main.c8d171ec.js",
     "static/js/2.362db918.chunk.js",
     "static/css/main.b608630c.chunk.css",
-    "static/js/main.f6400147.chunk.js"
+    "static/js/main.3fd05171.chunk.js"
   ]
 }
