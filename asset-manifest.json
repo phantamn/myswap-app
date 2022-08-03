@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "/myswap-app/static/css/main.b608630c.chunk.css",
-    "main.js": "/myswap-app/static/js/main.3eed9b94.chunk.js",
+    "main.js": "/myswap-app/static/js/main.20cbc1a6.chunk.js",
     "runtime-main.js": "/myswap-app/static/js/runtime-main.c8d171ec.js",
-    "static/js/2.362db918.chunk.js": "/myswap-app/static/js/2.362db918.chunk.js",
+    "static/js/2.5e4b6538.chunk.js": "/myswap-app/static/js/2.5e4b6538.chunk.js",
     "index.html": "/myswap-app/index.html",
-    "static/js/2.362db918.chunk.js.LICENSE.txt": "/myswap-app/static/js/2.362db918.chunk.js.LICENSE.txt",
+    "static/js/2.5e4b6538.chunk.js.LICENSE.txt": "/myswap-app/static/js/2.5e4b6538.chunk.js.LICENSE.txt",
     "static/media/StarkNet Icon.90b145c2.png": "/myswap-app/static/media/StarkNet Icon.90b145c2.png",
     "static/media/bg2.f3c2405f.png": "/myswap-app/static/media/bg2.f3c2405f.png",
     "static/media/mySwap_logo_mobile.a04d74e6.svg": "/myswap-app/static/media/mySwap_logo_mobile.a04d74e6.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.c8d171ec.js",
-    "static/js/2.362db918.chunk.js",
+    "static/js/2.5e4b6538.chunk.js",
     "static/css/main.b608630c.chunk.css",
-    "static/js/main.3eed9b94.chunk.js"
+    "static/js/main.20cbc1a6.chunk.js"
   ]
 }
